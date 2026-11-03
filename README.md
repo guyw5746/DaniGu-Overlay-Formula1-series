@@ -1,5 +1,5 @@
 <!-- Ko-fi Badge Button -->
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)]([https://ko-fi.com/YOUR_KOFI_USERNAME](https://ko-fi.com/danigu))
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)]([https://ko-fi.com/danigu])
 
 <!-- Detailed Support Box (Optional) -->
 > ☕ **Support the Project**
