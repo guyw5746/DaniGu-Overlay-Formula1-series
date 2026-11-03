@@ -1,0 +1,25 @@
+DaniGu Overlay (Lite) - Public distribution terms
+Applies to versions 1.0.0, 1.0.1 and 1.0.2.
+
+Copyright (c) 2026 DaniGu. All rights reserved for the original application.
+
+한국어
+앱을 무료로 다운로드하고 사용할 수 있습니다. 자체 앱 소스는 공개하지 않습니다.
+앱 설치 파일 및 패키지 바이너리의 판매와 재배포는 허용하지 않습니다.
+공식 다운로드 링크 공유는 허용합니다.
+이 안내는 위 버전에 동봉된 자체 앱의 이전 비공개 검증용/공개 보류/조건 미확정
+안내를 대체합니다. 이전 안내는 공개용 조건 확정 전의 문구입니다.
+제3자 구성요소의 권리는 각자의 라이선스가 정하며 이 제한으로 변경되지 않습니다.
+관련 법이 허용하는 범위에서 보증 없이 제공합니다.
+
+English
+Permission is granted to download and use the application free of charge.
+The original application is closed source. Sale and redistribution of its installation
+files or packaged binaries are not permitted. Sharing official download links is permitted.
+All other rights in the original application are reserved.
+These terms supersede earlier private-validation, public-release-hold and pending-terms
+notices for the original application bundled with the versions listed above.
+Third-party components retain their own licenses; these restrictions do not alter them.
+No warranty is provided to the extent permitted by applicable law.
+
+See THIRD-PARTY-NOTICES.txt, licenses/ and third-party-sources/ in each package.
