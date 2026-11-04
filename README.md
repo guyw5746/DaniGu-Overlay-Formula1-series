@@ -20,6 +20,23 @@ Turn race telemetry into your own overlays and dashboards.
 
 </div>
 
+🏁 DaniGu Community — Discord
+
+Chat about the streams and racing, download overlay assets, and share your own creations!
+방송·레이싱 이야기를 나누고, 오버레이 자료를 받거나 직접 만든 작품을 공유해 보세요!
+
+• Overlay Lite updates and assets
+  Overlay Lite 업데이트 및 자료 공유
+• Community creations and installation help
+  사용자 제작 커스텀 자료와 설치 트러블슈팅
+• Stream schedules and announcements
+  방송 일정 공지
+
+Korean and English are welcome. Joining is free.
+한국어와 영어 모두 환영합니다. 많은 관심 부탁드립니다.
+
+👉 [DISCORD INVITE LINK] https://discord.gg/8uqtsfFuCN
+
 ---
 
 | 🏁 Overlay | 📊 Pitwall | 🎛️ Dashboard |
